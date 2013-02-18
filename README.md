@@ -12,7 +12,7 @@ Self-contained PHP Photo Album
 
 ### Upload Pictures
 
-You can manually upload pictures to <gallery_home>/<album_name>, and the pictures will show up in the right album
+You can manually upload pictures to &lt;gallery_home&gt;/&lt;album_name&gt;, and the pictures will show up in the right album
 Otherwise, you have the option of uploading the pictures from the administration panel
 
 ### Configuration
