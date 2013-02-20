@@ -50,3 +50,9 @@ function getNavigationMenu() {
 
 The software provided here is not maintained anymore, nor any update is planned for the future.
 I decided to make it available on my repository as a reference
+
+### Possible Improvements
+
+* Update the UI to 2013 standards (load images dynamically, drag and drop file upload, ...)
+* Display Exif data
+* Create an option in the Administration panel to pre-generate all the thumbnails, per size
