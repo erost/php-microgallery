@@ -1468,8 +1468,8 @@ IMAGE_CLOSE;
 
 // *** VIEWS *********
 function index_page_view($index, $resources) {
-	ob_start();?>
-	<?php foreach($index->albums as $album => $values) { ?>
+	ob_start();
+	foreach($index->albums as $album => $values) { ?>
 		<div class="albumEntry clearfix">
 			<div class="albumPreview">
 				<a href="<?php echo action_url('album', array('name' => $album)) ?>"><img src="<?php echo $values['preview']?>" alt="<?php echo $values['preview']?>"></a>
